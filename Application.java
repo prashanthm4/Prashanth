@@ -17,6 +17,7 @@ void main()
         printf("%d is a negative number \n", num);
     else
         printf("0 is neither positive nor negative");
+ 
 # feature 202 changes done by prashi on reg module
 // declare variables
       int num1, num2, sum;
@@ -30,3 +31,24 @@ void main()
 
       // display the sum value
       System.out.println("Sum = " + sum);
+
+
+# feature201 changes done by SUMAN on reports module
+import java.util.Scanner;
+
+public class EvenOdd {
+
+    public static void main(String[] args) {
+
+        Scanner reader = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        int num = reader.nextInt();
+
+        if(num % 2 == 0)
+            System.out.println(num + " is even");
+        else
+            System.out.println(num + " is odd");
+    }
+}
+ 
