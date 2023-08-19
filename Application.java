@@ -17,6 +17,21 @@ void main()
         printf("%d is a negative number \n", num);
     else
         printf("0 is neither positive nor negative");
+ 
+# feature 202 changes done by prashi on reg module
+// declare variables
+      int num1, num2, sum;
+
+      // take two numbers
+      num1 = 10;
+      num2 = 20;
+
+      // calculate sum value
+      sum = num1 + num2;
+
+      // display the sum value
+      System.out.println("Sum = " + sum);
+
 
 # feature201 changes done by SUMAN on reports module
 import java.util.Scanner;
@@ -36,3 +51,4 @@ public class EvenOdd {
             System.out.println(num + " is odd");
     }
 }
+ 
