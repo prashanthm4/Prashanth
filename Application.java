@@ -19,8 +19,7 @@
 
   
 
-# feature201 changes done by SUMAN on reports module
-import java.util.Scanner;
+
 
 public class EvenOdd {
         }
