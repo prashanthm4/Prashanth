@@ -9,7 +9,9 @@ void main()
 {
     int num;
  
-  
+  num 1
+   num 2
+   num3
  
 # feature 202 changes done by prashi on reg module
 // declare variables
