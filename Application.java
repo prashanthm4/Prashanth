@@ -31,7 +31,7 @@ void main()
 
       // display the sum value
       System.out.println("Sum = " + sum);
-
+      system.out.print
 
 # feature201 changes done by SUMAN on reports module
 import java.util.Scanner;
