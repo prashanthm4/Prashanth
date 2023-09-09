@@ -29,9 +29,7 @@ void main()
       // calculate sum value
       sum = num1 + num2;
 
-      // display the sum value
-      System.out.println("Sum = " + sum);
-      system.out.print
+  
 
 # feature201 changes done by SUMAN on reports module
 import java.util.Scanner;
