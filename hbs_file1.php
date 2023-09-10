@@ -6,3 +6,6 @@ webhook job
 hello
 devops class
 aws class
+testing
+jenkins
+maven
